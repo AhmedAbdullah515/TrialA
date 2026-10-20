@@ -44,7 +44,7 @@ namespace TrialA.App_Context
                 new CandidateProfile { CandidateProfileId = 2, Phone = "01112345678", ResumeUrl = "Example.com/resuem2", Skill = "flutter", YearOfExperience = 3, UserId = 2 },
                 new CandidateProfile { CandidateProfileId = 3, Phone = "01129566806", ResumeUrl = "Example3.com/resuem2", Skill = "logic", YearOfExperience = 5, UserId = 1 }
 
-
+                //woeiowiehioweuiruweoruweo
 
                 );
             modelBuilder.Entity<Company>().HasData(
